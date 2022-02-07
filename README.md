@@ -24,3 +24,6 @@ I made the project using [React]
 ## How to run the app
 Download the zip file using the green button, or clone the repository by running the command git clone + the name of this repository in your terminal. In the same terminal once the command is complete, run `npm install` which will install all the dependencies in the `package.json` file and then run `npm start` which will start your development server on `localhost:3000`. You must have [React] installed in order to run this project.
 
+# Projects I was inspired by:
+https://github.com/SankThomas/country-layer-api-demo
+https://www.youtube.com/watch?v=c9Er4oqgPMM
