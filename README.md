@@ -21,3 +21,6 @@ I made the project using [React]
 3. On the right we have the filtering of the countries by region - which does not work (don't make a mistake just because the countries are not filtered)
 4. On the card of each country we have a button that "passes" you to another page where you can find additional information about that country.
 
+## How to run the app
+Download the zip file using the green button, or clone the repository by running the command git clone + the name of this repository in your terminal. In the same terminal once the command is complete, run `npm install` which will install all the dependencies in the `package.json` file and then run `npm start` which will start your development server on `localhost:3000`. You must have [React] installed in order to run this project.
+
